@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\CsharpeProgs\CsharpeOOPS\bin\Debug\net7.0\CsharpeOOPS.exe
+C:\Users\HP\OneDrive\Desktop\CsharpeProgs\CsharpeOOPS\bin\Debug\net7.0\CsharpeOOPS.deps.json
+C:\Users\HP\OneDrive\Desktop\CsharpeProgs\CsharpeOOPS\bin\Debug\net7.0\CsharpeOOPS.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\CsharpeProgs\CsharpeOOPS\bin\Debug\net7.0\CsharpeOOPS.dll
+C:\Users\HP\OneDrive\Desktop\CsharpeProgs\CsharpeOOPS\bin\Debug\net7.0\CsharpeOOPS.pdb
+C:\Users\HP\OneDrive\Desktop\CsharpeProgs\CsharpeOOPS\obj\Debug\net7.0\CsharpeOOPS.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\CsharpeProgs\CsharpeOOPS\obj\Debug\net7.0\CsharpeOOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\CsharpeProgs\CsharpeOOPS\obj\Debug\net7.0\CsharpeOOPS.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\CsharpeProgs\CsharpeOOPS\obj\Debug\net7.0\CsharpeOOPS.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\CsharpeProgs\CsharpeOOPS\obj\Debug\net7.0\CsharpeOOPS.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\CsharpeProgs\CsharpeOOPS\obj\Debug\net7.0\CsharpeOOPS.dll
+C:\Users\HP\OneDrive\Desktop\CsharpeProgs\CsharpeOOPS\obj\Debug\net7.0\refint\CsharpeOOPS.dll
+C:\Users\HP\OneDrive\Desktop\CsharpeProgs\CsharpeOOPS\obj\Debug\net7.0\CsharpeOOPS.pdb
+C:\Users\HP\OneDrive\Desktop\CsharpeProgs\CsharpeOOPS\obj\Debug\net7.0\CsharpeOOPS.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\CsharpeProgs\CsharpeOOPS\obj\Debug\net7.0\ref\CsharpeOOPS.dll
