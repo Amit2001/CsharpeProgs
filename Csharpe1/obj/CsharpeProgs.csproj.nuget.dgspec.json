@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\OneDrive\\Desktop\\CsharpeProgs\\CsharpeProgs.csproj": {}
+    "C:\\Users\\HP\\OneDrive\\Desktop\\CsharpeProgs\\Csharpe1\\CsharpeProgs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\OneDrive\\Desktop\\CsharpeProgs\\CsharpeProgs.csproj": {
+    "C:\\Users\\HP\\OneDrive\\Desktop\\CsharpeProgs\\Csharpe1\\CsharpeProgs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\CsharpeProgs\\CsharpeProgs.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\CsharpeProgs\\Csharpe1\\CsharpeProgs.csproj",
         "projectName": "CsharpeProgs",
-        "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\CsharpeProgs\\CsharpeProgs.csproj",
+        "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\CsharpeProgs\\Csharpe1\\CsharpeProgs.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\CsharpeProgs\\obj\\",
+        "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\CsharpeProgs\\Csharpe1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
